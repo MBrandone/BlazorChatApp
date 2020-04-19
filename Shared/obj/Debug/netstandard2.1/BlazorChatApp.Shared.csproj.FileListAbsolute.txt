@@ -1,0 +1,9 @@
+/Users/brandone.martins/Workspace/BlazorChatApp/Shared/bin/Debug/netstandard2.1/BlazorChatApp.Shared.deps.json
+/Users/brandone.martins/Workspace/BlazorChatApp/Shared/bin/Debug/netstandard2.1/BlazorChatApp.Shared.dll
+/Users/brandone.martins/Workspace/BlazorChatApp/Shared/bin/Debug/netstandard2.1/BlazorChatApp.Shared.pdb
+/Users/brandone.martins/Workspace/BlazorChatApp/Shared/obj/Debug/netstandard2.1/BlazorChatApp.Shared.csprojAssemblyReference.cache
+/Users/brandone.martins/Workspace/BlazorChatApp/Shared/obj/Debug/netstandard2.1/BlazorChatApp.Shared.csproj.CoreCompileInputs.cache
+/Users/brandone.martins/Workspace/BlazorChatApp/Shared/obj/Debug/netstandard2.1/BlazorChatApp.Shared.AssemblyInfoInputs.cache
+/Users/brandone.martins/Workspace/BlazorChatApp/Shared/obj/Debug/netstandard2.1/BlazorChatApp.Shared.AssemblyInfo.cs
+/Users/brandone.martins/Workspace/BlazorChatApp/Shared/obj/Debug/netstandard2.1/BlazorChatApp.Shared.dll
+/Users/brandone.martins/Workspace/BlazorChatApp/Shared/obj/Debug/netstandard2.1/BlazorChatApp.Shared.pdb

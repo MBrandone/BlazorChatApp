@@ -1,0 +1,65 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/brandone.martins/Workspace/BlazorChatApp/Server/BlazorChatApp.Server.csproj",
+    "projectName": "BlazorChatApp.Server",
+    "projectPath": "/Users/brandone.martins/Workspace/BlazorChatApp/Server/BlazorChatApp.Server.csproj",
+    "outputPath": "/Users/brandone.martins/Workspace/BlazorChatApp/Server/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/Users/brandone.martins/Workspace/BlazorChatApp/Client/BlazorChatApp.Client.csproj": {
+            "projectPath": "/Users/brandone.martins/Workspace/BlazorChatApp/Client/BlazorChatApp.Client.csproj"
+          },
+          "/Users/brandone.martins/Workspace/BlazorChatApp/Shared/BlazorChatApp.Shared.csproj": {
+            "projectPath": "/Users/brandone.martins/Workspace/BlazorChatApp/Shared/BlazorChatApp.Shared.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+          "target": "Package",
+          "version": "[3.2.0-preview4.20210.8, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+    }
+  }
+}
